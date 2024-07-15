@@ -129,7 +129,7 @@ const Chat: React.FC = () => {
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={handleKeyPress}
             InputProps={{
-              style: { color: "white" },
+              style: { color: "black" },
           
             }}
           />
