@@ -60,5 +60,5 @@ The Frontend Interview Assistant aims to help candidates prepare for interviews 
 If you wish to contribute, please submit a pull request or open an issue. We welcome all feedback and contributions.
 
 
+<img width="1286" alt="Screenshot 2024-07-15 at 23 40 23" src="https://github.com/user-attachments/assets/eb8bf1db-f4a8-4f1c-95ef-ef99e74e9502">
 
-<img width="1286" alt="Screenshot 2024-07-15 at 23 03 35" src="https://github.com/user-attachments/assets/865abfcf-fdc7-4e23-b44e-f7bd7b299b9b">
