@@ -137,9 +137,14 @@ const Chat: React.FC = () => {
         </Grid>
         {!isWaiting && (
           <Grid item>
-            <Button variant="contained" color="primary" onClick={handleSendMessage} disabled={isWaiting}>
-              Gönder
-            </Button>
+           <Button
+  variant="contained"
+  style={{ backgroundColor: '#4c1e7d', color: '#fff' }}
+  onClick={handleSendMessage}
+  disabled={isWaiting}
+>
+  Send
+</Button>
           </Grid>
         )}
       </Grid>
