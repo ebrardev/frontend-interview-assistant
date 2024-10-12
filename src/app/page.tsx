@@ -6,7 +6,7 @@ export default function Home() {
     <div className="App">
     <header className="App-header">
        {/* align center */}
-      <h1 style={{ textAlign: 'center', color:"blue", padding:"25px" }}>Frontend mentor</h1>
+      <h1 style={{ textAlign: 'center', color:"#4c1e7d", padding:"25px", marginTop:"20px" }}>Frontend Assistant</h1>
     </header>
     <main>
       <Chat />

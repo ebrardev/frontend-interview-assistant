@@ -11,7 +11,7 @@ body {
   font-family: '', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(to bottom, #dcdcdc, #c2c9d9, #9abbd4, #63aec7, #04a2ad);
+  background-image: linear-gradient(to bottom, #dcdcdc, #c2c9d9, #ba53d1, #c55bd3, #e249f9);
 
   background-repeat: no-repeat;
   background-size: cover;
