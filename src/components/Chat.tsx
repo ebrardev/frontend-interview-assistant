@@ -21,7 +21,7 @@ const Chat: React.FC = () => {
   useEffect(() => {
     setMessages([
       {
-        content: "Frontend mülakat asistanına hoşgeldiniz, hangi teknoloji hakkında konuşmak istersiniz ?(html,css,javascript,frameworks) ",
+        content: "Welcome to the Frontend Assistant! Which technology would you like to talk about? (HTML, CSS, JavaScript, frameworks) ",
         isUser: false,
       },
     ]);
